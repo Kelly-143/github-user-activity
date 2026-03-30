@@ -1,0 +1,14 @@
+D:\Project\GitHubActivity\GitHubActivity\bin\Debug\net10.0\GitHubActivity.exe
+D:\Project\GitHubActivity\GitHubActivity\bin\Debug\net10.0\GitHubActivity.deps.json
+D:\Project\GitHubActivity\GitHubActivity\bin\Debug\net10.0\GitHubActivity.runtimeconfig.json
+D:\Project\GitHubActivity\GitHubActivity\bin\Debug\net10.0\GitHubActivity.dll
+D:\Project\GitHubActivity\GitHubActivity\bin\Debug\net10.0\GitHubActivity.pdb
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.AssemblyInfoInputs.cache
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.AssemblyInfo.cs
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.csproj.CoreCompileInputs.cache
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.dll
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\refint\GitHubActivity.dll
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.pdb
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\GitHubActivity.genruntimeconfig.cache
+D:\Project\GitHubActivity\GitHubActivity\obj\Debug\net10.0\ref\GitHubActivity.dll
